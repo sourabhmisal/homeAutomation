@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# RZ03-1A3-D005-new_components
+#
+DEF RZ03-1A3-D005-new_components U 0 40 Y Y 1 F N
+F0 "U" 50 -250 50 H V C CNN
+F1 "RZ03-1A3-D005-new_components" 100 -50 50 H V C CNN
+F2 "Relay_THT:Relay_SPST_Schrack-RT1-16A-FormA_RM5mm" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -200 -100 350 -550 0 1 0 N
+X 11 ~ 450 -250 100 L 50 50 1 1 I
+X 11 ~ 450 -150 100 L 50 50 1 1 I
+X 14 ~ 450 -450 100 L 50 50 1 1 O
+X 14 ~ 450 -350 100 L 50 50 1 1 O
+X A1 ~ -300 -150 100 R 50 50 1 1 B
+X A2 ~ -300 -450 100 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library
