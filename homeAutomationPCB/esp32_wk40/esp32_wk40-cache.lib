@@ -172,9 +172,9 @@ $FPLIST
  LED_THT:*
 $ENDFPLIST
 DRAW
-P 2 0 1 8 -50 -50 -50 50 N
+P 2 0 1 10 -50 -50 -50 50 N
 P 2 0 1 0 -50 0 50 0 N
-P 4 0 1 8 50 -50 50 50 -50 0 50 -50 N
+P 4 0 1 10 50 -50 50 50 -50 0 50 -50 N
 P 5 0 1 0 -120 -30 -180 -90 -150 -90 -180 -90 -180 -60 N
 P 5 0 1 0 -70 -30 -130 -90 -100 -90 -130 -90 -130 -60 N
 X K 1 -150 0 100 R 50 50 1 1 P
@@ -228,9 +228,9 @@ $FPLIST
  D*DO?41*
 $ENDFPLIST
 DRAW
-P 2 0 1 8 -50 50 -50 -50 N
+P 2 0 1 10 -50 50 -50 -50 N
 P 2 0 1 0 50 0 -50 0 N
-P 4 0 1 8 50 50 50 -50 -50 0 50 50 N
+P 4 0 1 10 50 50 50 -50 -50 0 50 50 N
 X K 1 -150 0 100 R 50 50 1 1 P
 X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
@@ -366,11 +366,11 @@ X E 3 100 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# new_components_RZ03-1A3-D005
+# esp32_wk40-rescue_RZ03-1A3-D005-new_components
 #
-DEF new_components_RZ03-1A3-D005 U 0 40 Y Y 1 F N
+DEF esp32_wk40-rescue_RZ03-1A3-D005-new_components U 0 40 Y Y 1 F N
 F0 "U" 50 -250 50 H V C CNN
-F1 "new_components_RZ03-1A3-D005" 100 -50 50 H V C CNN
+F1 "esp32_wk40-rescue_RZ03-1A3-D005-new_components" 100 -50 50 H V C CNN
 F2 "Relay_THT:Relay_SPST_Schrack-RT1-16A-FormA_RM5mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW

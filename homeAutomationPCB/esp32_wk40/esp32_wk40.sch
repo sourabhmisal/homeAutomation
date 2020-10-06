@@ -342,7 +342,7 @@ $EndComp
 Wire Wire Line
 	1380 1730 1380 1670
 $Comp
-L new_components:RZ03-1A3-D005 U10
+L esp32_wk40-rescue:RZ03-1A3-D005-new_components U10
 U 1 1 5F6996B7
 P 14670 850
 F 0 "U10" H 14745 925 50  0000 C CNN
@@ -657,7 +657,7 @@ F 3 "" H 14030 1910 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L new_components:RZ03-1A3-D005 U9
+L esp32_wk40-rescue:RZ03-1A3-D005-new_components U9
 U 1 1 5FC74058
 P 14580 2560
 F 0 "U9" H 14655 2635 50  0000 C CNN
@@ -790,7 +790,7 @@ F 3 "" H 13940 3620 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L new_components:RZ03-1A3-D005 U8
+L esp32_wk40-rescue:RZ03-1A3-D005-new_components U8
 U 1 1 5FC7F8C2
 P 14490 4240
 F 0 "U8" H 14565 4315 50  0000 C CNN
@@ -923,7 +923,7 @@ F 3 "" H 13850 5300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L new_components:RZ03-1A3-D005 U11
+L esp32_wk40-rescue:RZ03-1A3-D005-new_components U11
 U 1 1 5FC8BC04
 P 14440 6010
 F 0 "U11" H 14515 6085 50  0000 C CNN
